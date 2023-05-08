@@ -1,0 +1,4 @@
+Artist name: martins || Artist origin: latvija || Artist debut: 020202020 || Artist genre: metal || Artist ID: 1
+Album name: latvijas || Total length: strelnieki || Album debut: 4142 || Artist genre: 21321321 || Artist ID: 1231231
+Album name: asidjas || Total length: sakodoas || Album debut: asodksao || Artist genre: asodsadkoa || Artist ID: asodkasodk
+song name: asojdasodj || Total length: asdjasidj || Album debut: asidjasjd || Origin album: asdjasidj || Artist ID: asjdaisjdias
